@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hdq.Lib</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Hombredequeso</authors>
+    <owners>Hombredequeso</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Collection of general purpose classes</description>
+    <releaseNotes>First (test) release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
