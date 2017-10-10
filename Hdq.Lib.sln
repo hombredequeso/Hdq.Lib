@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hdq.Lib", "Hdq.Lib\Hdq.Lib.csproj", "{A2E326BB-BB18-4585-8293-9055A58F4637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hdq.Lib.Tests", "Hdq.Lib.Tests\Hdq.Lib.Tests.csproj", "{EFD2B9EF-7825-4CF2-8F08-3C54F45DC1F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A2E326BB-BB18-4585-8293-9055A58F4637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2E326BB-BB18-4585-8293-9055A58F4637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2E326BB-BB18-4585-8293-9055A58F4637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD2B9EF-7825-4CF2-8F08-3C54F45DC1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD2B9EF-7825-4CF2-8F08-3C54F45DC1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD2B9EF-7825-4CF2-8F08-3C54F45DC1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD2B9EF-7825-4CF2-8F08-3C54F45DC1F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
