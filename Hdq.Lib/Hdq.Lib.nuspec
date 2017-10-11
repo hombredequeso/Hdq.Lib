@@ -8,7 +8,7 @@
     <owners>Hombredequeso</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Collection of general purpose classes</description>
-    <releaseNotes>First (test) release.</releaseNotes>
+    <releaseNotes>Another (test) release.</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
 </package>
