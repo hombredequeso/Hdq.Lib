@@ -1,9 +1,8 @@
 # Hdq.Lib
 
 
-| --- | --- |
-| **Build** | [![Build status](https://ci.appveyor.com/api/projects/status/6dqlvffvp3is8989?svg=true)](https://ci.appveyor.com/project/hombredequeso/hdq-lib) |
-| **NuGet** | [![NuGet](https://img.shields.io/nuget/v/Hdq.Lib.svg)](https://www.nuget.org/packages/Hdq.Lib/)
+[![Build status](https://ci.appveyor.com/api/projects/status/6dqlvffvp3is8989?svg=true)](https://ci.appveyor.com/project/hombredequeso/hdq-lib) 
+[![NuGet](https://img.shields.io/nuget/v/Hdq.Lib.svg)](https://www.nuget.org/packages/Hdq.Lib/)
    
 
 Grab-bag of helpful C# classes.
